@@ -10,4 +10,4 @@ Saying this is a paragraph
 1. List
 2. List more
 
-[whatever] (https://www.google.com)
+[whatever](https://www.google.com)
